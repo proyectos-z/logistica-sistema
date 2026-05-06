@@ -1,0 +1,9 @@
+[submodule "envio-service"]
+	path = envio-service
+	url = https://github.com/ProjectsZ/envio-service.git
+[submodule "notificacion-service"]
+	path = notificacion-service
+	url = https://github.com/ProjectsZ/notificacion-service.git
+[submodule "tarifa-service"]
+	path = tarifa-service
+	url = https://github.com/ProjectsZ/tarifa-service.git

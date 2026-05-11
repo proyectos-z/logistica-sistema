@@ -1,0 +1,38 @@
+# Build output
+**/target/
+
+# Version control
+**/.git/
+.gitignore
+.gitmodules
+
+# IDE
+**/.vscode/
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
+
+# Maven wrapper (image already has Maven)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Docker/deploy files
+docker-compose*.yml
+Dockerfile*
+.dockerignore
+*.bat
+*.sh
+
+# Docs
+*.md
+
+# Secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+**/node_modules/
